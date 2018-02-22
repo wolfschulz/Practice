@@ -1,0 +1,13 @@
+
+public class Car {
+	String color;
+	int numberOfDoors;
+	
+	boolean startEngine() {
+		
+	}
+	
+	boolean stopEngine() {
+		
+	}
+}
